@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppleMarket</string>
+    <string name="main_page_category_name">Hyeons</string>
+    <string name="price">가격</string>
+    <string name="goods_name">상품 이름</string>
+    <string name="experience">설명</string>
+</resources>

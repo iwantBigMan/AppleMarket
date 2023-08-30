@@ -4,4 +4,10 @@
     <string name="price">가격</string>
     <string name="goods_name">상품 이름</string>
     <string name="experience">설명</string>
+    <string name="chatCount">51</string>
+    <string name="heartCount">120</string>
+    <string name="chat">채팅하기</string>
+    <string name="seller_name">판매자 이름</string>
+    <string name="address">주소</string>
+    <string name="manner"><u>매너온도</u></string>
 </resources>

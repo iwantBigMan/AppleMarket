@@ -1,11 +1,16 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'kotlin-android-extensions'
 }
 
 android {
     namespace 'com.example.applemarket'
     compileSdk 33
+
+    androidExtensions {
+        experimental true
+    }
 
     viewBinding{
         enabled = true
